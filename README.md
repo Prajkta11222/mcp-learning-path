@@ -36,16 +36,3 @@ The app uses GPT + Streamlit + YouTube data to generate personalized study plans
 
 - Code and design by **NxtWave CCBP 4.0**
 - Screenshots and testing by **Prajkta Padare**
-
----
-
-## 🔗 GitHub Upload Steps
-
-1. Go to [https://github.com](https://github.com)
-2. Create a new public repo (e.g., `mcp-nxtwave-showcase`)
-3. Click “Add file” → “Upload files”
-4. Drag and drop:
-   - `app.py`, `utils.py`
-   - `README.md`
-   - `screenshots/` folder
-5. Commit → Done!
