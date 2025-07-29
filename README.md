@@ -20,7 +20,7 @@ The app uses GPT + Streamlit + YouTube data to generate personalized study plans
 
 ## 🖼️ Example Walkthrough
 
-### Goal: “Learn DSA in 7 Days”
+### Goal: “I want to prepare DSA for my coding interviews”
 
 | Step              | Screenshot |
 |-------------------|------------|
