@@ -85,11 +85,11 @@ This hands-on exploration helped me understand how AI APIs, interactive Python a
 ## Screenshots
 | **Step**      | **Screenshot**                                                |
 | ------------- | ------------------------------------------------------------- |
-| 🎯 Input Goal | [input](https://github.com/Prajkta11222/mcp-learning-path)    |
-| ⚙️ Generating | [progress](https://github.com/Prajkta11222/mcp-learning-path) |
-| ✅ Result (1)  | [r1](https://github.com/Prajkta11222/mcp-learning-path)       |
-| ✅ Result (2)  | [r2](https://github.com/Prajkta11222/mcp-learning-path)       |
-| ✅ Result (3)  | [r3](https://github.com/Prajkta11222/mcp-learning-path)       |
+| 🎯 Input Goal | [input](input1.png)    |
+| ⚙️ Generating | [progress](generating.png) |
+| ✅ Result (1)  | [r1](result1.png)       |
+| ✅ Result (2)  | [r2](result2.png)       |
+| ✅ Result (3)  | [r3](result3.png)       |
 
 
 ## What I Learned
